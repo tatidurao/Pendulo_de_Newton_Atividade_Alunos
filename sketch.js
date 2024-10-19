@@ -101,6 +101,4 @@ function draw() {
 	}	  
 }		
 
-function mouseDragged() {
-	Matter.Body.setPosition(bola1, { x: mouseX, y: mouseY });
-}
+
